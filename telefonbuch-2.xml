@@ -1,5 +1,11 @@
-<?xml version='1.0' encoding='utf-8' ?>
-<root_contact>
-    <contact display_name="max max" office_number="+491231231312312" mobile_number="" other_number="" />
-    <contact display_name="beatka beatka" office_number="+4912312312312" mobile_number="" other_number="" />
-</root_contact>
+<?xml version="1.0" encoding="UTF-8"?>
+<YealinkIPPhoneDirectory>
+  <DirectoryEntry>
+    <Name>max max</Name>
+    <Telephone>+491231231312312</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>beatka beatka</Name>
+    <Telephone>+4912312312312</Telephone>
+  </DirectoryEntry>
+</YealinkIPPhoneDirectory>
